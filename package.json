@@ -1,0 +1,21 @@
+{
+  "name": "speek",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insanity54/speek.git"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/speek/issues"
+  },
+  "dependencies": {
+    "express": "~4.8.6"
+  }
+}
